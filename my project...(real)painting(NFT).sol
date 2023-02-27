@@ -1,13 +1,5 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
-/*Create a smart contract in solidity To Tokenize All The Assets(Paintings) That are listed on and Buy Sell Platform with following functionalities 
-
-1) Anyone Can come and list the product that they want to sell.
-2) Buyer can come and make payment for that and buy it.
-3) Automatically a NFT will be minted for that partiular asset and ownership of that NFT will be transferred to the Buyer.
-4) All Required View Functions.
-1000000000000000000*/
-
 
 //importing libraries
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
